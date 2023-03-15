@@ -4,6 +4,22 @@
     "oncran": true
   },
   {
+    "package": "ast2ast",
+    "oncran": true
+  },
+  {
+    "package": "dfdr",
+    "oncran": true
+  },
+  {
+    "package": "dfdr",
+    "oncran": true
+  },
+  {
+    "package": "paropt",
+    "oncran": true
+  },
+  {
     "package": "paropt",
     "oncran": true
   }

@@ -8,6 +8,11 @@
 	url = https://github.com/konrad1991/ast2ast
 	shallow = true
 	registered = true
+[submodule "dfdr"]
+	path = dfdr
+	url = https://github.com/konrad1991/dfdr
+	shallow = true
+	registered = true
 [submodule "paropt"]
 	path = paropt
 	url = https://github.com/konrad1991/paropt
