@@ -8,6 +8,3 @@
 [submodule "dfdr"]
 	path = dfdr
 	url = https://github.com/konrad1991/dfdr
-[submodule "paropt"]
-	path = paropt
-	url = https://github.com/konrad1991/paropt
