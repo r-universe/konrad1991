@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "ast2ast"]
+	path = ast2ast
+	url = https://github.com/konrad1991/ast2ast
