@@ -5,3 +5,6 @@
 [submodule "ast2ast"]
 	path = ast2ast
 	url = https://github.com/konrad1991/ast2ast
+[submodule "sundials"]
+	path = sundials
+	url = https://github.com/konrad1991/sundials
