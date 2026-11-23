@@ -1,10 +1,22 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/konrad1991/konrad1991.r-universe.dev
 	branch = HEAD
+[submodule "Random"]
+	path = Random
+	url = https://github.com/Konrad1991/Random
 [submodule "ast2ast"]
 	path = ast2ast
-	url = https://github.com/konrad1991/ast2ast
+	url = https://github.com/Konrad1991/ast2ast
+[submodule "dfdr"]
+	path = dfdr
+	url = https://github.com/Konrad1991/dfdr
+[submodule "paropt"]
+	path = paropt
+	url = https://github.com/Konrad1991/paropt
+[submodule "rayplot"]
+	path = rayplot
+	url = https://github.com/Konrad1991/rayplot
 [submodule "sundials"]
 	path = sundials
-	url = https://github.com/konrad1991/sundials
+	url = https://github.com/Konrad1991/sundials
