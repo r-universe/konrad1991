@@ -2,21 +2,34 @@
 	path = .registry
 	url = https://github.com/konrad1991/konrad1991.r-universe.dev
 	branch = HEAD
+[submodule "OpenDOE"]
+	path = OpenDOE
+	url = https://github.com/ComPlat/OpenStats
+	subdir = OpenDOE
+[submodule "OpenStats"]
+	path = OpenStats
+	url = https://github.com/ComPlat/OpenStats
+	subdir = OpenStats
 [submodule "Random"]
 	path = Random
 	url = https://github.com/Konrad1991/Random
+[submodule "Randomization"]
+	path = Randomization
+	url = https://github.com/ComPlat/OpenStats
+	subdir = Randomization
 [submodule "ast2ast"]
 	path = ast2ast
 	url = https://github.com/Konrad1991/ast2ast
 [submodule "dfdr"]
 	path = dfdr
 	url = https://github.com/Konrad1991/dfdr
-[submodule "paropt"]
-	path = paropt
-	url = https://github.com/Konrad1991/paropt
 [submodule "rayplot"]
 	path = rayplot
 	url = https://github.com/Konrad1991/rayplot
 [submodule "sundials"]
 	path = sundials
 	url = https://github.com/Konrad1991/sundials
+[submodule "tsf"]
+	path = tsf
+	url = https://github.com/ComPlat/Thermosimfit
+	subdir = tsf
